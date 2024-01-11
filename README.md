@@ -10,4 +10,5 @@ EveWork is a unique Roblox framework designed to streamline your workflow and su
 - 🧩 When you use a [compatible package](#compatible-packages), EveWork doesn't just let you work with it - it embraces it, integrating the package into the internal framework functionality.
 
 # Compatible Packages
-- [imezx/warp@1.0.2](https://github.com/imezx/Warp) > Eve's API remains the same, but behind the scenes, we'll leverage WARP to deliver high-speed networking.
+> Networking:
+> [imezx/warp@1.0.2](https://github.com/imezx/Warp),
