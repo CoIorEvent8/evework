@@ -1,4 +1,4 @@
-![Banner](https://github.com/CoIorEvent8/CoIorEvent8/blob/main/evework.jpg)
+![Banner](https://github.com/CoIorEvent8/CoIorEvent8/blob/main/evework2.jpg)
 
 # Welcome to EVEWORK! 🍃
 EveWork is a unique Roblox framework designed to streamline your workflow and supercharge your productivity.
