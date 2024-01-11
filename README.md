@@ -11,4 +11,4 @@ EveWork is a unique Roblox framework designed to streamline your workflow and su
 
 # Compatible Packages
 > Networking:
-> [imezx/warp@1.0.2](https://github.com/imezx/Warp),
+> [imezx/warp@1.0.2](https://github.com/imezx/Warp)
